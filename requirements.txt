@@ -1,0 +1,4 @@
+geographiclib==1.50
+geopy==2.1.0
+maxminddb==2.0.3
+maxminddb-geolite2==2018.703
